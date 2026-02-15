@@ -1,0 +1,4 @@
+lethabo, 1234, Admin
+Khuli, 12345, Non-Admin
+Thembi, 456789, Non-Admin
+motho, 123456, Non-Admin
